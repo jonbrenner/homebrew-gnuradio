@@ -5,7 +5,7 @@ Delicious --HEAD only tap of the latest development version of gnuradio! Yay! Bu
 
 To use, simply 
 ```sh
-brew tap metacollin/gnuradio
+brew tap jonbrenner/gnuradio
 brew install --HEAD gnuradio --with-qt --with-docs
 ```
 
